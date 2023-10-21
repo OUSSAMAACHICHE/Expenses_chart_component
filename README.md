@@ -33,8 +33,3 @@ Users should be able to:
 
 ![Alt text](<Capture d’écran 2023-10-21 141812.png>)
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://oussamaachiche.github.io/Expenses_chart_component/)https://oussamaachiche.github.io/Expenses_chart_component/)
