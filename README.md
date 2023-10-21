@@ -6,15 +6,15 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 - # Improve Your skills with this project 
   - # expernses chart component
-  - # ![Alt text](<Capture d’écran 2023-10-21 141812.png>))
+  - # ![Alt text](<Capture d’écran 2023-10-21 141812.png>)
   - [Links](#)
-- [My process](#  I use mobile-first to complate this project and i used fetch to get data from json file)
-  - [Built with](# html css js)
-  - [What I learned](# how to fetch data from json file)
+  -  I use mobile-first to complate this project and i used fetch to get data from json file
+  - # html css js
+  - # how to fetch data from json file
   - [Continued development](# I will have to lean more about api)
-  - [Useful resources](# chatGpt and abedalrhmane gamal on youtube)
-- [Author](#Ouss_Ach)
-- [Acknowledgments](# Thanks FrontEnd mentor the best way to improve frontend skills ❤✔)
+  - chatGpt and abedalrhmane gamal on youtube
+- Author # Ouss_Ach
+-  Thanks FrontEnd mentor the best way to improve frontend skills ❤✔
 
 
 ## Overview
