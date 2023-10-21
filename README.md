@@ -4,7 +4,7 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 ## Table of contents
 
-- [Overview] # Improve Your skills with this project
+- [Overview] ( # Improve Your skills with this project )
   - [The challenge](# expernses chart component)
   - [Screenshot](# ![Alt text](<Capture d’écran 2023-10-21 141812.png>))
   - [Links](#)
