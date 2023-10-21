@@ -5,8 +5,8 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 ## Table of contents
 
 - # Improve Your skills with this project 
-  - [The challenge](# expernses chart component)
-  - [Screenshot](# ![Alt text](<Capture d’écran 2023-10-21 141812.png>))
+  - # expernses chart component
+  - # ![Alt text](<Capture d’écran 2023-10-21 141812.png>))
   - [Links](#)
 - [My process](#  I use mobile-first to complate this project and i used fetch to get data from json file)
   - [Built with](# html css js)
