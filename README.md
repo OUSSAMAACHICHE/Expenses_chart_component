@@ -7,7 +7,7 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 - # Improve Your skills with this project 
   - # expernses chart component
   - # ![Alt text](<Capture d’écran 2023-10-21 141812.png>)
-  - [Links](#)
+  - [Links] live site : https://oussamaachiche.github.io/Expenses_chart_component/
   -  I use mobile-first to complate this project and i used fetch to get data from json file
   - # html css js
   - # how to fetch data from json file
@@ -37,4 +37,4 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://oussamaachiche.github.io/Expenses_chart_component/)https://oussamaachiche.github.io/Expenses_chart_component/)
